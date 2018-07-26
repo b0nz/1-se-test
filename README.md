@@ -7,6 +7,7 @@ Made with :heart: by b0nz
 * [Soal 2](https://github.com/b0nz/Prosehat#soal-2)
 * [Soal 3](https://github.com/b0nz/Prosehat#soal-3)
 * [Soal 4](https://github.com/b0nz/Prosehat#soal-4)
+* [Soal 5](https://github.com/b0nz/Prosehat#soal-5)
 
 ## Requirements
 * Python 3.x
@@ -115,3 +116,21 @@ ALTER TABLE `love`
   ADD CONSTRAINT `love_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `product` (`id`),
   ADD CONSTRAINT `love_ibfk_2` FOREIGN KEY (`user_id`) REFERENCES `user` (`id`);
 ```
+
+## Soal 5
+Installation
+```
+$ cd 5
+$ npm install
+$ react-native run-android
+$ react-native start //to run react native development server
+```
+
+Screenshoot 
+:------------------------------------:|:--------------------------------------:|
+![screenshots1](5/screenshoot/1.png)  |  ![screenshots2](5/screenshoot/2.png)  |
+:------------------------------------:|:--------------------------------------:|
+![screenshots1](5/screenshoot/3.png)  |  ![screenshots2](5/screenshoot/4.png)  |
+:------------------------------------:|:--------------------------------------:|
+![screenshots1](5/screenshoot/5.png)  |                                        |
+:------------------------------------:|:--------------------------------------:|
