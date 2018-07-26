@@ -1,1 +1,57 @@
 4/config.php 
+# OSX
+#
+5/.DS_Store
+
+# Xcode
+#
+5/build/
+5/*.pbxuser
+!default.pbxuser
+5/*.mode1v3
+!default.mode1v3
+5/*.mode2v3
+!default.mode2v3
+5/*.perspectivev3
+!default.perspectivev3
+5/xcuserdata
+5/*.xccheckout
+5/*.moved-aside
+5/DerivedData
+5/*.hmap
+5/*.ipa
+5/*.xcuserstate
+5/project.xcworkspace
+
+# Android/IntelliJ
+#
+5/build/
+5/.idea
+5/.gradle
+5/local.properties
+5/*.iml
+
+# node.js
+#
+5/node_modules/
+5/npm-debug.log
+5/yarn-error.log
+
+# BUCK
+5/buck-out/
+\.buckd/
+5/*.keystore
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+5/*/fastlane/report.xml
+5/*/fastlane/Preview.html
+5/*/fastlane/screenshots
+
+# Bundle artifact
+5/*.jsbundle
