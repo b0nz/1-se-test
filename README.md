@@ -21,10 +21,35 @@ $ git clone https://github.com/b0nz/Prosehat
 ```
 
 ## Soal 1
+Input option `int //integer data`
+
+*Example*
+```
+$ python3 1.py
+  12
+```
 
 ## Soal 2
+Input option
+```
+[]   //array _data
+int  //integer data
+```
+*Example:*
+```
+$ python3 2.py
+  1 2 3 4 5
+  4
+```
 
 ## Soal 3
+Input option (x, y, d)
+
+*Example:*
+```
+$ python3 3.py
+  3 100 5
+```
 
 ## Soal 4
 _before running the file, make sure you have done this command and fill this field($host=..,$user=..,$pass=..,$db=..)_
