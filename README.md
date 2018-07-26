@@ -127,6 +127,7 @@ $ react-native start //to run react native development server
 ```
 
 Screenshoot 
+.                                     |  .                                     |
 :------------------------------------:|:--------------------------------------:|
 ![screenshots1](5/screenshoot/1.png)  |  ![screenshots2](5/screenshoot/2.png)  |
 :------------------------------------:|:--------------------------------------:|
